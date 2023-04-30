@@ -2,7 +2,7 @@
 #Henrique Machado
 #15-04-2023
  
-Este projeto foi desenvolvido como trabalho prático para a disciplina de Algortimos e Estruturas de Dados I no curso de Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri. A primeira versão do projeto foi desenvolvida na linguagem C++ no ano de 2021 devido a uma das restrições do trabalho. Todavia, como forma de reforçar meus conhecimentos em Python, optei por refazer o projeto. 
+Este projeto foi desenvolvido como trabalho prático para a disciplina de Algoritmos e Estruturas de Dados I no curso de Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri. A primeira versão do projeto foi desenvolvida na linguagem C++ no ano de 2021 devido a uma das restrições do trabalho. Todavia, como forma de reforçar meus conhecimentos em Python, optei por refazer o projeto. 
 
 O objetivo deste projeto é a simulação de um autômato celular no qual, a partir de uma situação inicial, é possível observar mudanças discretas ao longo do tempo. Essas mudanças criam novas linhas de células: as gerações. Ao utilizamos uma representação baseada somente em 0's e 1's, é possível notar a formação de padrões triangulares limpos sendo formados ao longo do surgimento de novas gerações, que estaria representando a auto-organização do autômato.
 
